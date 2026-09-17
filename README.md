@@ -60,10 +60,8 @@ VS Code · Jupyter · Postman
 
 root@red-skittle:~# cat contact
 
-GitHub    → github.com/YOUR_USERNAME
-LinkedIn  → linkedin.com/in/YOUR_USERNAME
-Portfolio → YOUR_PORTFOLIO
-Email     → YOUR_EMAIL
+LinkedIn  → [linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/lakshya-jha/)
+Portfolio → [YOUR_PORTFOLIO](https://lakshya-jha.vercel.app)
 
 
 root@red-skittle:~# echo $STATUS
