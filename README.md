@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**red-skittle/red-skittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+root@red-skittle
 
-Here are some ideas to get you started:
+Cybersecurity · Systems Engineering · Neural Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+</div>
+
+root@red-skittle:~# cat about
+
+I'm into penetration testing and systems engineering, with a curiosity for
+anything that sits beneath the surface. I like getting hands-on with systems,
+breaking things apart, figuring out why they work the way they do, and
+building things back better.
+
+Most of my time goes into learning, experimenting, and occasionally breaking
+things that were perfectly fine before I touched them.
+
+
+root@red-skittle:~# cat skills
+
+Programming       → C/C++ · Python · JavaScript · Java · SQL · Rust
+Cybersecurity     → Penetration Testing · Network Security · Cryptography
+Systems           → Systems Engineering · Linux · Networking · Virtualization
+Machine Learning  → Neural Networks · Model Security
+Computer Science  → DSA · OOP · Software Engineering · Databases
+Development       → Software Development · Backend · APIs · Version Control
+IoT               → Internet of Things · IoT Security
+
+
+root@red-skittle:~# cat projects
+
+>> neural-network-security
+
+Neural Network Security — Research into neural-network parameter attacks
+and model integrity.
+
+[research] (2026) stack: Python, PyTorch, NumPy
+
+
+root@red-skittle:~# cat education
+
+B.Tech Computer Science @ Manipal University Jaipur
+    (2024 - 2028) Focus on Cybersecurity and Systems Engineering.
+
+
+root@red-skittle:~# cat toolbox
+
+Git · GitHub · Docker · GNS3 · Cisco Packet Tracer
+Wireshark · Nmap · Burp Suite · VMware · AWS · VirtualBox
+VS Code · Jupyter · Postman
+
+
+root@red-skittle:~# cat contact
+
+GitHub    → github.com/YOUR_USERNAME
+LinkedIn  → linkedin.com/in/YOUR_USERNAME
+Portfolio → YOUR_PORTFOLIO
+Email     → YOUR_EMAIL
+
+
+root@red-skittle:~# echo $STATUS
+
+learning • building • breaking • rebuilding
+
+root@red-skittle:~#
+
+<div align="center">
+
+
+
+</div>
