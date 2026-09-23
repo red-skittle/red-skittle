@@ -66,7 +66,7 @@ Portfolio → [lakshya-jha](https://lakshya-jha.vercel.app)
 
 root@red-skittle:~# echo $STATUS
 
-learning • building • breaking • rebuilding
+afk
 
 root@red-skittle:~#
 
