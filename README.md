@@ -12,7 +12,7 @@ I like understanding how systems work, figuring out why they break, and making t
 
 ### $ cat interests.txt
 
-`linux` `networking` `security` `automation` `arm64` `systems internals`
+`linux` `networking` `security` `os`
 
 ### $ ls projects/
 
@@ -20,25 +20,23 @@ I like understanding how systems work, figuring out why they break, and making t
 
 Research into neural-network parameter attacks and model integrity.
 
-`python` / `pytorch` / `numpy` · `2026`
+`python` / `pytorch` / `numpy`
 
 ### $ pacman -Qe
 
 | Category | Installed packages |
 |:--|:--|
-| Languages | C/C++ · Python · JavaScript · Java · SQL · Rust |
+| Languages | C/C++ · Python · Java · SQL |
 | Security | Penetration testing · Network security · Cryptography |
-| Systems | Linux · Networking · Virtualization · Monitoring |
-| Infrastructure | Docker · AWS · Automation · CI/CD |
-| Other | Neural networks · IoT security · Backend · APIs |
+| Systems | Linux · Networking · Virtualization |
+| Infrastructure | Docker · AWS · CI/CD |
+| Other | Neural networks · IoT security |
 
 ### $ neofetch
-
-**OS:**        Currently figuring things out  
+  
 **Host:**      Manipal University Jaipur  
 **Kernel:**    B.Tech CSE · 2024–2028  
 **Interests:** Security · Reliability · Systems  
-**Uptime:**    Still learning
 
 ### $ ping me
 
@@ -47,10 +45,3 @@ Research into neural-network parameter attacks and model integrity.
 [github](https://github.com/red-skittle)
 
 ---
-
-```bash
-root@red-skittle:~# echo $STATUS
-```
-
-`afk`
-``` 
