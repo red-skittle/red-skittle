@@ -1,4 +1,3 @@
-```md
 <h1 align="left">root@red-skittle:~#</h1>
 
 <p align="left">
