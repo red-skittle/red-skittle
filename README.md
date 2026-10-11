@@ -2,7 +2,7 @@
 
 root@red-skittle
 
-Cybersecurity · Systems Engineering · Neural Networks
+Cybersecurity · SRE
 
 
 
