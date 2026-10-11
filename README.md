@@ -1,73 +1,57 @@
-```bash
-root@red-skittle:~$ whoami
-```
+```md
+<h1 align="left">root@red-skittle:~#</h1>
 
-# red-skittle
+<p align="left">
+  <code>security engineering</code> · <code>sre</code> · <code>linux</code>
+</p>
 
-`security engineering` · `sre` · `linux`
+I'm into security engineering and site reliability engineering, with a soft spot for Linux, networking, and the stuff that happens under the hood.
 
-Interested in how systems work, how they fail, and how to keep them running.
-
-I'm a CS student who spends a lot of time messing around with Linux, networking, security, and low-level systems. I like figuring out why something breaks more than pretending it never will.
-
-Currently exploring the overlap between security engineering and site reliability engineering.
-
-```bash
-root@red-skittle:~$ cat interests.txt
-```
-
-- Linux and operating systems
-- Security engineering and penetration testing
-- Networking and infrastructure
-- Automation and reliability
-- ARM architecture and systems internals
-- Neural networks and model security
-
-```bash
-root@red-skittle:~$ ls projects/
-```
-
-**neural-network-security/**
-
-Research into neural-network parameter attacks and model integrity.
-
-`Python` · `PyTorch` · `NumPy` · `2026`
-
-```bash
-root@red-skittle:~$ cat toolbox.txt
-```
-
-**Languages**  
-C/C++ · Python · JavaScript · Java · SQL · Rust
-
-**Systems & infrastructure**  
-Linux · Docker · AWS · VMware · VirtualBox
-
-**Security & networking**  
-Wireshark · Nmap · Burp Suite · GNS3 · Cisco Packet Tracer
-
-**Development**  
-Git · GitHub · VS Code · Jupyter · Postman
-
-```bash
-root@red-skittle:~$ cat education.txt
-```
-
-B.Tech Computer Science & Engineering  
-Manipal University Jaipur · 2024–2028
-
-```bash
-root@red-skittle:~$ cat contact.txt
-```
-
-[linkedin](https://www.linkedin.com/in/lakshya-jha/) · [portfolio](https://lakshya-jha.vercel.app/) · [github](https://github.com/red-skittle)
-
-```bash
-root@red-skittle:~$ echo $STATUS
-```
-
-`learning...`
+I like understanding how systems work, figuring out why they break, and making them a little harder to break next time. Usually involves a terminal, too many tabs, and the occasional questionable experiment.
 
 ---
 
-<sub>still figuring things out. that's the point.</sub>
+### $ cat interests.txt
+
+`linux` `networking` `security` `automation` `arm64` `systems internals`
+
+### $ ls projects/
+
+**[neural-network-security](#)**
+
+Research into neural-network parameter attacks and model integrity.
+
+`python` / `pytorch` / `numpy` · `2026`
+
+### $ pacman -Qe
+
+| Category | Installed packages |
+|:--|:--|
+| Languages | C/C++ · Python · JavaScript · Java · SQL · Rust |
+| Security | Penetration testing · Network security · Cryptography |
+| Systems | Linux · Networking · Virtualization · Monitoring |
+| Infrastructure | Docker · AWS · Automation · CI/CD |
+| Other | Neural networks · IoT security · Backend · APIs |
+
+### $ neofetch
+
+**OS:**        Currently figuring things out  
+**Host:**      Manipal University Jaipur  
+**Kernel:**    B.Tech CSE · 2024–2028  
+**Interests:** Security · Reliability · Systems  
+**Uptime:**    Still learning
+
+### $ ping me
+
+[linkedin](https://www.linkedin.com/in/lakshya-jha/) ·
+[portfolio](https://lakshya-jha.vercel.app/) ·
+[github](https://github.com/red-skittle)
+
+---
+
+```bash
+root@red-skittle:~# echo $STATUS
+```
+
+`afk`
+``` 
